@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://syshlang-visitor-badge.glitch.me/badge?page_id=syshlang.syshlang)
+![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=syshlang.visitor-badge)
