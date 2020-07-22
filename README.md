@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![syshlang's github stats](https://github-readme-stats.vercel.app/api?username=syshlang&show_icons=true&theme=dracula)
