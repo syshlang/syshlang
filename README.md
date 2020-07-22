@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub followers](https://img.shields.io/github/followers/syshlang?style=social)
 
 [![twitter](https://img.shields.io/badge/-@syshlang-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/syshlang)
 [![github](https://img.shields.io/badge/-@syshlang-%23181717?style=flat-square&logo=github)](https://github.com/syshlang)
