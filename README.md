@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 [![codepen](https://img.shields.io/badge/-@syshlang-%23000000?style=flat-square&logo=codepen)](https://codepen.io/syshlang)
 [![Website](https://img.shields.io/website?logo=syshlang&up_message=syshlang&url=https%3A%2F%2Fsyshlang.com)](https://syshlang.com)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syshlang&show_icons=true&theme=dracula)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
