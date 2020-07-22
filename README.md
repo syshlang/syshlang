@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://img.shields.io/badge/-@syshlang-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/syshlang)
-[![](https://img.shields.io/badge/-@syshlang-%23181717?style=flat-square&logo=github)](https://github.com/syshlang)
-[![](https://img.shields.io/badge/-@syshlang-%23000000?style=flat-square&logo=codepen)](https://codepen.io/syshlang)
-[![](https://img.shields.io/badge/-@syshlang-%23000000?style=flat-square&logo=hexo)](https://syshlang.com)
+[![twitter](https://img.shields.io/badge/-@syshlang-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/syshlang)
+[![github](https://img.shields.io/badge/-@syshlang-%23181717?style=flat-square&logo=github)](https://github.com/syshlang)
+[![codepen](https://img.shields.io/badge/-@syshlang-%23000000?style=flat-square&logo=codepen)](https://codepen.io/syshlang)
+![Website](https://img.shields.io/website?logo=syshlang&up_message=syshlang&url=https%3A%2F%2Fsyshlang.com)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
