@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![](https://img.shields.io/badge/-@syshlang-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/syshlang)
+[![](https://img.shields.io/badge/-@syshlang-%23181717?style=flat-square&logo=github)](https://github.com/syshlang)
+[![](https://img.shields.io/badge/-@syshlang-%23000000?style=flat-square&logo=codepen)](https://codepen.io/syshlang)
+[![](https://img.shields.io/badge/-@syshlang-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/syshlang)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fsyshlang.com)](https://syshlang.com)
+
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![syshlang's github stats](https://github-readme-stats.vercel.app/api?username=syshlang&show_icons=true&theme=dracula)
